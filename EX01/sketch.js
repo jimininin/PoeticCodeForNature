@@ -10,7 +10,7 @@ let g = 150;
 let b = 50;
 
 function setup() {
-  title = createElement('h2', "<a href='/PoeticCodeForNature'> HOME : </a> 작품 제목");
+  title = createElement('h2', "<a href='/PoeticCodeForNature'> HOME : </a> 바코드");
   title.position(20, 0);
 
   canvas = createCanvas(400, 400);
