@@ -3,12 +3,12 @@
 접속 주소 : <http://jimininin.github.io/PoeticCodeForNature/>
  * picxenk 대신 여러분의 아이디로 변경합니다.
  * \_config.yml 파일에서 url 값을 여러분에게 맞게 수정하세요.
- * 수요일 조아~ 최고로 조아~
 
 
 ## 황지민
  * 디지털 아트 1623038
  * Creative Technology
+ * 맛있는 건 정말 참을 수 없어!
 
 ## 작업
  * [나의 예시 작업](./EX01/)
