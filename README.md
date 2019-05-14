@@ -12,7 +12,8 @@
 
 ## 작업
  * [나의 예시 작업](./EX01/)
-   [두번째 작업](./MunJi)
+ * [두번째 작업](http://jimininin.github.io/PoeticCodeForNature/)
+ * [세번째 작업](https://editor.p5js.org/sau04232@gmail.com/sketches/1cMjXUDM_)
  * 여러분의 작업을 p5 기반으로 만들고 링크를 걸 수 있습니다.
  * 다음처럼 이미지를 추가할 수도 있습니다.
 
