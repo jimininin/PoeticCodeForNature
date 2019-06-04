@@ -1,8 +1,7 @@
 ## 시작하기
 
 접속 주소 : <http://jimininin.github.io/PoeticCodeForNature/>
- * picxenk 대신 여러분의 아이디로 변경합니다.
- * \_config.yml 파일에서 url 값을 여러분에게 맞게 수정하세요.
+
 
 
 ## 황지민
