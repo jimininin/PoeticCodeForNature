@@ -1,7 +1,7 @@
 
 
 ## 황지민
-   ![춘배](./Chunbae.jpeg)
+    ![춘배](./Chunbae.jpeg)
  * 디지털 아트 1623038
  * Creative Technology
  * 맛있는 건 정말 참을 수 없어!
